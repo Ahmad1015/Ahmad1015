@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmad</h1>
-<h3 align="center">I'm a student learning artificial intelligence and machine learning</h3>
+<h3 align="center">I'm a student learning Artificial Intelligence and Machine Learning</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmad1015" alt="ahmad1015" /></a> </p>
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ahmad1015"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ahmad1015" /></a></p><br><br>
-
+<br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmad1015&show_icons=true&locale=en&layout=compact" alt="ahmad1015" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmad1015&show_icons=true&locale=en" alt="ahmad1015" /></p>
