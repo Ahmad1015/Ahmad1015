@@ -15,7 +15,11 @@
 <p><a href="https://www.buymeacoffee.com/ahmad1015"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ahmad1015" /></a></p><br><br>
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmad1015&show_icons=true&locale=en&layout=compact" alt="ahmad1015" /></p>
+<br>
 
+<br><br><br><br><br><br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmad1015&show_icons=true&locale=en" alt="ahmad1015" /></p>
-
+<br>
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmad1015&" alt="ahmad1015" /></p>
+<br>
