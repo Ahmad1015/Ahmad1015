@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmad</h1>
 <h3 align="center">I'm a student learning Artificial Intelligence and Machine Learning</h3>
 
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmad1015" alt="ahmad1015" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
