@@ -2,11 +2,16 @@
 <h1 align="center">Hi 👋, I'm Ahmad</h1>
 <h3 align="center">I'm a student learning artificial intelligence and machine learning</h3>
 
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahmad1015&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmad1015&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmad1015" alt="ahmad1015" /></a> </p>
-
-<img align="right" alt="Gif" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,8 +28,11 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ahmad1015"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ahmad1015" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmad1015&show_icons=true&locale=en&layout=compact" alt="ahmad1015" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmad1015&show_icons=true&locale=en" alt="ahmad1015" /></p>
+<img align="right" height="250" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"  />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmad1015&" alt="ahmad1015" /></p>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Ahmad1015/Ahmad1015/output/snake.svg" alt="Snake animation" />
+
+###
