@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ahmad</h1>
-<h3 align="center">I'm a student learning Artificial Intelligence and Machine Learning</h3>
-
+<h3 align="center">I'm a student learning artificial intelligence and machine learning</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmad1015" alt="ahmad1015" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/ahmad101121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmad101121" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ahmad1015" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmad1015" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/20860773" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20860773" height="30" width="40" /></a>
+<a href="https://kaggle.com/ahmad1015" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ahmad1015" height="30" width="40" /></a>
+<a href="https://medium.com/@fa22-bcs-053" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@fa22-bcs-053" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ahmad_raza10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ahmad_raza10" height="30" width="40" /></a>
 </p>
 
@@ -14,13 +18,9 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ahmad1015"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ahmad1015" /></a></p><br><br>
-<br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmad1015&show_icons=true&locale=en&layout=compact" alt="ahmad1015" /></p>
-<br>
 
-<br><br><br><br><br><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmad1015&show_icons=true&locale=en&layout=compact" alt="ahmad1015" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmad1015&show_icons=true&locale=en" alt="ahmad1015" /></p>
-<br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmad1015&" alt="ahmad1015" /></p>
-<br>
