@@ -1,6 +1,6 @@
 [![MasterHead](https://img.freepik.com/premium-vector/machine-learning-banner-web-icon-set-data-mining-algorithm-neural-network_35632-107.jpg?w=1060)]()
 <h1 align="center">Hi 👋, I'm Ahmad</h1>
-<h3 align="center">I'm a student learning artificial intelligence and machine learning</h3>
+<h3 align="center">I'm a student learning Artificial Intelligence and Machine Learning</h3>
 
 ###
 
